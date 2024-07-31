@@ -1,0 +1,18 @@
+@import url('stylepro2.css');
+h1{
+    color:red;
+}
+p{
+    color:blue;
+    font-weight: 1000;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.style1
+{
+color:brown;
+}
+img{
+    width:50%;
+    border-style: double;
+
+}
